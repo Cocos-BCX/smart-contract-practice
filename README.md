@@ -10,7 +10,7 @@ Cocos-BCX为了合约的公开和透明性，源代码直接部署到链上。�
 
 ### 漏洞报告
 
-[回滚攻击](/Rollback-Attack.md)
+[回滚攻击](/report/Rollback-Attack.md)
 
 
 
